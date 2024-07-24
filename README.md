@@ -1,2 +1,3 @@
 # Leghub
-arsenal gui
+I do not own this. Made by leg hub.
+Arsenal GUI.
